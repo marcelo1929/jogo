@@ -1,0 +1,23 @@
+.gamebord{
+    width: 80%;
+    height: 500px;
+    position: relative;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+.nuvem{
+width: 700px;
+position: absolute;
+}
+
+.obstaculo{
+width: 100px;
+position: absolute;
+bottom: 0;
+right: 50px;
+}
+.personagem{
+width: 150px;
+position: absolute;
+bottom: 0;
+}
